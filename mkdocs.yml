@@ -1,0 +1,14 @@
+site_name: Science Notes
+theme:
+  name: material
+  palette:
+    scheme: slate  # enables dark mode
+
+nav:
+  - Home: index.md
+  - Thermodynamics:
+      - Introduction: thermodynamics.md
+      - Applications: thermodynamics-applications.md
+  - Quantum Physics:
+      - Basics: quantum.md
+      - Weird Phenomena: quantum-weird.md
